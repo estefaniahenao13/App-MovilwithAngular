@@ -1,0 +1,11 @@
+ng new -> Angular 
+
+ng serve –o ->Ejecutar proyecto de angular 
+
+ng g c ->creacion de componentes 
+
+ng g m app rounting -> crear módulo de rutas  
+
+DDD-> "Agrupar componentes por módulos" 
+
+ng g m pages/pages --flat -->crear modulo
